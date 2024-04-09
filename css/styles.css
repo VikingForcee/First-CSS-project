@@ -35,7 +35,7 @@ h3{
 }
 a{
     color: #0a6f72;
-    font-family: montsaret, sans-serif;
+    font-family: montserrat, sans-serif;
     margin: 0 10px 0 10px;
 }
 
@@ -73,14 +73,14 @@ margin-top: 50px;
 }
 
 .skill-image{
-    border-radius: 50pc;
+    border-radius: 50%;
     width: 25%;
     float: left;
     margin-right: 30px;
 }
 
 .chillies-image{
-    border-radius: 50pc;
+    border-radius: 50%;
     width: 25%;
     float: right;
     margin-left: 30px;
